@@ -20,7 +20,7 @@ Utilitários<br>
 
 # 💻 Projeto
 
-É uma página de login com aplicação de HTML e CSS
+É um formulário de login simples e responsivo feito com HTML e CSS usando transições.
 
 # 📝 Licença
 
