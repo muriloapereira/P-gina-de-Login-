@@ -8,12 +8,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- Bibliotecas
+
+Bibliotecas
 
 [Google Fonts](https://fonts.google.com/)
 </br>
 
-Utilitários
+Utilitários<br>
+
 [IconMoon](https://icomoon.io/)
 
 # 💻 Projeto
